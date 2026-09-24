@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**janiom1/janiom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ZEEL%20KHER&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20System%20Builder&descAlign=50&descAlignY=65&color=0:070b12,50:10192b,100:24134d&animation=fadeIn" width="100%" alt="Zeel Kher">
 
-Here are some ideas to get you started:
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7C6BFF&center=true&vCenter=true&width=760&height=45&lines=Software+Developer;Full-Stack+Application+Builder;Python+%2F+Django+%2F+ASP.NET+Core;Android+%2F+Java+%2F+Firebase;Building+systems%2C+not+just+screens" alt="Typing animation">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/zeelkher"><img src="https://img.shields.io/badge/GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://zeelkher.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ZeelKher"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</div>
