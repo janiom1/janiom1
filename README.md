@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ZEEL%20KHER&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20System%20Builder&descAlign=50&descAlignY=65&color=0:070b12,50:10192b,100:24134d&animation=fadeIn" width="100%" alt="Zeel Kher">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ZEEL%20KHER&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20System%20Builder&descAlign=50&descAlignY=65&color=0:070b12,50:10192b,100:24134d&animation=fadeIn" width="100%" alt="Jani Om">
 
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7C6BFF&center=true&vCenter=true&width=760&height=45&lines=Software+Developer;Full-Stack+Application+Builder;Python+%2F+Django+%2F+ASP.NET+Core;Android+%2F+Java+%2F+Firebase;Building+systems%2C+not+just+screens" alt="Typing animation">
