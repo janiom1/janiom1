@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/omjani"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
-## 🛠️ Tech Stack
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
