@@ -13,3 +13,42 @@
 <a href="https://www.linkedin.com/in/omjani"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte" />
+</p>
+
+### 🎨 Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
+
+### ⚙️ Backend & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,cs,ruby,php" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=express,nestjs,django,fastapi,spring,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mssql,mongodb,redis,dynamodb,cassandra" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,githubactions,gitlab,jenkins" />
+</p>
+
+### 📊 Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres" />
+</p>
